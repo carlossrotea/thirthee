@@ -167,7 +167,9 @@ li>a {
     }
 
     .by-2 {
-        flex-direction: row;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
         margin: auto;
     }
 
@@ -180,7 +182,7 @@ li>a {
 
 }
 
-@media only screen and (min-width: 992px) {
+@media only screen and (min-width: 1080px) {
 
     .char {
         font-size: 2rem;
@@ -188,6 +190,8 @@ li>a {
 
     .by-2 {
         flex-direction: row;
+        justify-content: center;
+        align-items: center;
         margin: auto;
     }
 
@@ -208,6 +212,8 @@ li>a {
 
     .by-2 {
         flex-direction: row;
+        justify-content: center;
+        align-items: center;
         margin: auto;
     }
 
