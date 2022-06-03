@@ -39,6 +39,8 @@ body {
 
 .navbar a:hover {
     background-color: #d699ff;
+    border: solid 1px #ffd500;
+    border-radius: 1em;
 }
 
 .navbar #logo {
