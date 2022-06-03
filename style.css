@@ -1,6 +1,6 @@
 body {
     width: 100%;
-    background: #ffd500;
+    background: #ffe169;
     align-items: center;
     font-family: 'Smooch', cursive;
 }
@@ -67,7 +67,7 @@ li .left {
 }
 
 li>a {
-    color: #ffd500;
+    color: #ffe169;
 }
 
 #logo {
