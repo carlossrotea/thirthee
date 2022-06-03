@@ -1,6 +1,6 @@
 body {
     width: 100%;
-    background: #ffe169;
+    background: #ffd500;
     align-items: center;
     font-family: 'Smooch', cursive;
 }
@@ -53,7 +53,7 @@ ul {
     margin: 1px;
     padding: 10px;
     overflow: hidden;
-    background-color: #00296b;
+    background-color: #6600a5;
 }
 
 li {
@@ -67,7 +67,7 @@ li .left {
 }
 
 li>a {
-    color: #ffe169;
+    color: #ffd500;
 }
 
 #logo {
@@ -79,7 +79,7 @@ li>a {
 .char {
     margin-top: 3em;
     text-align: center;
-    color: #00296b;
+    color: #6600a5;
     font-size: 2rem;
 }
 
@@ -94,7 +94,7 @@ li>a {
 .pp {
     width: 20em;
     height: 20em;
-    border: 1em solid #00296b;
+    border: 1em solid rgba(102, 0, 165, 1);
     border-radius: 15em;
     margin: auto;
     margin-top: 3%;
@@ -131,7 +131,6 @@ li>a {
     .pp {
         width: 5em;
         height: 5em;
-        border: 1em solid #00296b;
         border-radius: 2.5em;
         margin: auto;
         margin-top: 3%;
@@ -165,7 +164,6 @@ li>a {
     .pp {
         width: 10em;
         height: 10em;
-        border: 1em solid #00296b;
         border-radius: 5em;
         margin: auto;
         margin-top: 3%;
@@ -199,7 +197,6 @@ li>a {
     .pp {
         width: 10em;
         height: 10em;
-        border: 1em solid #00296b;
         border-radius: 5em;
         margin: auto;
         margin-top: 3%;
@@ -233,7 +230,6 @@ li>a {
     .pp {
         width: 15em;
         height: 15em;
-        border: 1em solid #00296b;
         border-radius: 10em;
         margin: auto;
         margin-top: 3%;
@@ -266,7 +262,6 @@ li>a {
     .pp {
         width: 15em;
         height: 15em;
-        border: 1em solid #00296b;
         border-radius: 10em;
         margin: auto;
         margin-top: 3%;
@@ -299,7 +294,6 @@ li>a {
     .pp {
         width: 15em;
         height: 15em;
-        border: 1em solid #00296b;
         border-radius: 10em;
         margin: auto;
         margin-top: 3%;
@@ -332,7 +326,6 @@ li>a {
     .pp {
         width: 20em;
         height: 20em;
-        border: 1em solid #00296b;
         border-radius: 15em;
         margin: auto;
         margin-top: 3%;
